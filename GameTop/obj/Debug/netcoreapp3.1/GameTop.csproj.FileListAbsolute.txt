@@ -1,0 +1,13 @@
+C:\my_github\C_Sharp\cs_example_project\GameTop\bin\Debug\netcoreapp3.1\GameTop.exe
+C:\my_github\C_Sharp\cs_example_project\GameTop\bin\Debug\netcoreapp3.1\GameTop.deps.json
+C:\my_github\C_Sharp\cs_example_project\GameTop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.json
+C:\my_github\C_Sharp\cs_example_project\GameTop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.dev.json
+C:\my_github\C_Sharp\cs_example_project\GameTop\bin\Debug\netcoreapp3.1\GameTop.dll
+C:\my_github\C_Sharp\cs_example_project\GameTop\bin\Debug\netcoreapp3.1\GameTop.pdb
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.csprojAssemblyReference.cache
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfoInputs.cache
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfo.cs
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.csproj.CoreCompileInputs.cache
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.dll
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.pdb
+C:\my_github\C_Sharp\cs_example_project\GameTop\obj\Debug\netcoreapp3.1\GameTop.genruntimeconfig.cache
